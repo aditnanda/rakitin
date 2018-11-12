@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.nand_project.ngerakit">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/logo_dark"
+        android:label="@string/app_name"
+        android:roundIcon="@drawable/logo_dark"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+
+        <!-- membuat SPLASH SCREEN -->
+        <activity
+            android:name=".SplashScreen"
+            android:label="@string/app_name"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <!-- membuat SPLASH SCREEN -->
+        <activity android:name=".MainActivity" />
+        <activity android:name=".Simulasi.SimulasiActivity" />
+        <activity android:name=".Preview.PreviewActivity"></activity>
+    </application>
+
+</manifest>

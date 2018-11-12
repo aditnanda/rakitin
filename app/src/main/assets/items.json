@@ -1,0 +1,89 @@
+{
+    "data" : [
+        {
+            "item" : "Hardisk",
+            "dataitem" : [
+                {
+                    "nama" : "Hitachi Sata III 1 TB 5400Rpm 2.5 Inch (Garansi 3 Tahun)",
+                    "harga" : 720000
+                },
+                {
+                    "nama" : "Seagate Sata 1 TB 5400rpm 2.5 Inch (SGHDD25S0004X)",
+                    "harga" : 730000
+                },
+                {
+                    "nama" : "WDC Sata 1 TB Scorpio Black 7200rpm 2.5 Inch (WDHDDS25009X)",
+                    "harga" : 1050000
+                }
+            ]
+        },
+        {
+            "item" : "VGA",
+            "dataitem" : [
+                {
+                    "nama" : "Asus GTX 1050 3GB DDR5 PH NVidia PCI Exp.",
+                    "harga" : 2430000
+                },
+                {
+                    "nama" : "Asus GTX 1070 Ti 8GB DDR5 - Strix NVidia PCI Exp",
+                    "harga" : 8345000
+                },
+                {
+                    "nama" : "Asus RTX 2070 8GB DDR6 - Strix OC NVidia PCI Exp",
+                    "harga" : 12900000
+                }
+            ]
+        },
+        {
+            "item" : "RAM",
+            "dataitem" : [
+                {
+                    "nama" : "Apacer DDR4 DIMM 2400 8GB OC PANTHER GOLDEN (APRAMDDR4D002X) DDR4",
+                    "harga" : 1085000
+                },
+                {
+                    "nama" : "Corsair CMK16GX4M2A2666C16 (2x8Gb) (CSDIMM4D0011X) Vengeance LPX PC21000 16GB DDR4",
+                    "harga" : 2405000
+                },
+                {
+                    "nama" : "Corsair CMK32GX4M4B32000C16 (4 X 8Gb) DDR4",
+                    "harga" : 5505000
+                }
+            ]
+        },
+        {
+            "item" : "Motherboard",
+            "dataitem" : [
+                {
+                    "nama" : "ASRock H170 Performance Intel Socket 1151",
+                    "harga" : 1425000
+                },
+                {
+                    "nama" : "ASRock H270 Performance Intel Socket 1151",
+                    "harga" : 1913000
+                },
+                {
+                    "nama" : "ASRock H310CM-DVS Intel Socket 1151",
+                    "harga" : 960000
+                }
+            ]
+        },
+        {
+            "item" : "Processor",
+            "dataitem" : [
+                {
+                    "nama" : "AMD Bristol Ridge A6-9500 (Radeon R5 series) 3.5Ghz Up To 3.8Ghz Cache 1MB 65W Socket AM4 - 3 Core (AMPSSSAM4P015X) AMD AM4",
+                    "harga" : 630000
+                },
+                {
+                    "nama" : "AMD Bristol Ridge A8-9600 (Radeon R7 series) 3.1Ghz Up To 3.4Ghz Cache 2MB 65W Socket AM4 - 4 Core (AMPSSSAM4P014X) AMD AM4",
+                    "harga" : 795000
+                },
+                {
+                    "nama" : "intel i7-8700K (Box) w/o fan (ITPSSS11510001X) (3.7Ghz Up To 4.7Ghz,Cache 12MB,Coffeelake Series) Intel LGA 1151",
+                    "harga" : 6930000
+                }
+            ]
+        }
+    ]
+}
